@@ -60,7 +60,7 @@ Frontend ->streamlit run app.py
 Backend -> python main.py
 📌 Features
 
-It is basically a chatbot that helps to answers questions that arise while lookinf for a house 
+It is basically a chatbot that helps to answers questions that arise while looking for a house 
 ✅ Ask "Which apartments are near CU Boulder?"
 ✅ Understands vague queries like "Any cheap and furnished place?"
 ✅ Fetches structured info like rent, deposit, distance to bus stops, etc.
