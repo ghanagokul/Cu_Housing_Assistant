@@ -51,7 +51,7 @@ Clone the repo
 git clone https://github.com/ghanagokul/RAG1.git
 cd RAG1
 
-OPENAI_API_KEY=your-key  #Put directly into all the fiels or create .env and modify the files accordingly
+OPENAI_API_KEY=your-key  #Put directly into all the files or create .env and modify the files accordingly
 POSTGRES_URI=postgresql://user:pass@host/dbname
 Install dependencies
 pip install -r requirements.txt
