@@ -20,7 +20,7 @@ It provides:
 
 - **Python**, **LangChain**, **OpenAI GPT-4**
 - **PostgreSQL** (for structured housing data)
-- **ChromaDB / FAISS** (for semantic search)
+- **FAISS** (for semantic search)
 - **Streamlit** (frontend UI)
 - **FastAPI** (backend for APIs and LLM processing)
 - **Docker** (for local development)
