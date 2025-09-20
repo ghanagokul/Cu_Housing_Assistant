@@ -103,7 +103,7 @@ Ensure that sensitive keys (OpenAI API, PostgreSQL URI) are kept in `.env` files
 
 Below is the architecture diagram of the CU Housing Assistant:
 
-![Architecture Diagram](Screenshot%202025-09-20%20at%201.30.39%E2%80%AFPM.png)
+https://github.com/ghanagokul/Cu_Housing_Assistant/blob/main/Architecture.png
 
 ---
 
