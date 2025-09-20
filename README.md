@@ -1,6 +1,6 @@
 # 🏡 CU Housing Assistant (RAG-Based)
 
-This project is an intelligent Housing Assistant powered by **Retrieval-Augmented Generation (RAG)**, designed to help students and newcomers find housing near university of Colorado Boulder.
+This project is an intelligent Housing Assistant powered by **Retrieval-Augmented Generation (RAG)**, designed to help students and newcomers find housing near University of Colorado Boulder.
 
 It provides:
 
