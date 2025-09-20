@@ -54,8 +54,8 @@ RAG1/
 Clone the repo:
 
 ```bash
-git clone https://github.com/ghanagokul/RAG1.git
-cd RAG1
+git clone https://github.com/ghanagokul/Cu_Housing_Assistant.git
+cd Cu_Housing_Assistant
 ```
 
 Set environment variables:
